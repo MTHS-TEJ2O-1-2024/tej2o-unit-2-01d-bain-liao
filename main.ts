@@ -1,8 +1,8 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Mr. Coxall
+ * Created by: Bain Liao
  * Created on: Sep 2024
- * This program says Hello World
+ * This program says Hello Bain Liao
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Bain Liao!')
